@@ -10,10 +10,10 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello");
-            Console.WriteLine("hello");
-            Console.WriteLine("hello");
-
+            Console.WriteLine("hello1");
+            Console.WriteLine("hello2");
+            Console.WriteLine("hello3");
+            Console.WriteLine("hello4");
         }
     }
 }
