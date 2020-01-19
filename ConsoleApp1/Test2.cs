@@ -8,5 +8,9 @@ namespace ConsoleApp1
 {
     class Test2
     {
+        string Testfn()
+        {
+            return "qwerty";
+        }
     }
 }
