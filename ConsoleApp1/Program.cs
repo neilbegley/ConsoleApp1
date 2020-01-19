@@ -14,14 +14,10 @@ namespace ConsoleApp1
             Console.WriteLine("hello2");
             Console.WriteLine("hello3");
             Console.WriteLine("hello4");
-            Console.WriteLine("hello5");        
-            Console.WriteLine("hello6");
-            Console.WriteLine("hello8");
-            Console.WriteLine("hello7");       
             Console.WriteLine("hello9");       
             Console.WriteLine("hello10");       
-            Console.WriteLine("hello11");             
-            Console.WriteLine("hello12");       
+            Console.WriteLine("hello99");             
+            Console.WriteLine("hello99");       
             Console.WriteLine("hello13");
             Console.WriteLine("hello14");
             Console.WriteLine("hello15");
