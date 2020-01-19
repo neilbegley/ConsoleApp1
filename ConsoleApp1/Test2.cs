@@ -8,5 +8,9 @@ namespace ConsoleApp1
 {
     class Test2
     {
+        int Testfn()
+        {
+            return 999;
+        }
     }
 }
